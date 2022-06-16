@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="Level">Level:</string>
+    <string name="Level1">Level:1</string>
+    <string name="Level2">Level:2</string>
+    <string name="Level3">Level:3</string>
+    <string name="Level4">Level:4</string>
+    <string name="textcontinue">Continue</string>
+    <string name="level4">level4</string>
+
+</resources>

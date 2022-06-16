@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable-v24/style_btn_black60.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable-v24/style_points.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable-v24/style_points_green.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/button_gamelevels.xml" value="0.1215" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.1285" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/button_stroke_white_press_blue.xml" value="0.1285" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/edible_1.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/edible_2.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/edible_3.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/edible_4.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/edible_5.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/edible_6.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/fon_elow.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/fon_roses.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/img.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/inedible_1.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/inedible_2.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/inedible_3.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/inedible_4.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/inedible_5.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/inedible_6.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/preview4.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/previewimg.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/previewimg3.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_btn_black60.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_btn_black95.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_btn_stroke_black95_press_white.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_button_white.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_button_white__blue_press.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_img_universal.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_points.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/style_points_green.xml" value="0.1055" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_eight.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_eleven.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_fifteen.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_five.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_four.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_nine.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_one.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_six.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_sixteen.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_ten.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_thirteen.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_three.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_twelve.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/threelevel_two.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_eight.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_five1.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_four1.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_fourteen.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_nine.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_one.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_seven.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_six.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_ten.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_three1.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/drawable/twolevel_two.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/layout/dialogend.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/layout/gamelevels.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/layout/previewdialog.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/layout/universal.xml" value="0.14522821576763487" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/SysAdmin-2/AndroidStudioProjects/Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

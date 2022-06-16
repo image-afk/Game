@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Какое число, из двух, больше?</string>
+    <string name="leveltwo">Какая больше?</string>
+    <string name="leveloneend">Congratulations, the level is passed!</string>
+    <string name="leveltwoEnd">Congratulations, the level is passed!</string>
+    <string name="levelthree">Which of the animals is faster?</string>
+    <string name="levelthreeEnd">Congratulations, the level is passed!</string>
+    <string name="levelfour">Choose an edible one</string>
+    <string name="levelfoureEnd">Congratulations, the level is passed!</string>
+</resources>

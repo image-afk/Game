@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_levels" type="id" />
+    <item name="img_left" type="id" />
+    <item name="img_right" type="id" />
+    <item name="text_left" type="id" />
+    <item name="text_right" type="id" />
+    <item name="point10" type="id" />
+    <item name="point7" type="id" />
+    <item name="point4" type="id" />
+    <item name="point1" type="id" />
+    <item name="point13" type="id" />
+    <item name="point16" type="id" />
+    <item name="point19" type="id" />
+    <item name="point20" type="id" />
+    <item name="point17" type="id" />
+    <item name="point14" type="id" />
+    <item name="point11" type="id" />
+    <item name="point8" type="id" />
+    <item name="point5" type="id" />
+    <item name="point2" type="id" />
+    <item name="point3" type="id" />
+    <item name="point6" type="id" />
+    <item name="point9" type="id" />
+    <item name="point12" type="id" />
+    <item name="point15" type="id" />
+    <item name="point18" type="id" />
+    <item name="previewimg" type="id" />
+    <item name="textdescription" type="id" />
+</resources>
